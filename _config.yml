@@ -79,9 +79,9 @@ analytics:
 # Site Author
 author:
   name             : "Hongyi Wang"
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   bio              : "Second Year PhD Student at CS of University of Wisconsin - Madison"
-  location         : "3533, 1415 Engineering Drive, Madison, WI, 53706"
+  location         : "3533, 1415 Engineering Drive"
   employer         :
   googlescholar    : "http://yourfullgooglescholarurl.com"
   email            : "hongyiwang@cs.wisc.edu"
