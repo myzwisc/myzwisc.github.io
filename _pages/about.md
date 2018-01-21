@@ -1,3 +1,13 @@
+---
+permalink: /
+title: ""
+excerpt: "About me"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
 Bibliography
 ======
 I'm currently a scend-year Ph.D. student at Computer Sciences Department of University of Wisconsin - Madison, advised by [Prof. Dimitris Papailiopoulos](http://papail.io/). My research interests locate in machine learning, distributed system, and large-scale optimization.  
