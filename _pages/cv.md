@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. Hangzhou Dianzi University, 2016
-* M.S. University of Wisconsin - Madison, 2018 (expected)
-* Ph.D University of Wisconsin - Madison, 2022 (expected)
+* B.S., in Electrical Engineering, Hangzhou Dianzi University, 2016
+* M.S., in Computer Science, University of Wisconsin - Madison, 2018 (expected)
+* Ph.D, in Computer Science, University of Wisconsin - Madison, 2022 (expected)
 
 Work experience
 ======
@@ -30,25 +30,17 @@ Work experience
 Skills
 ======
 * Programming Languages:
-  * C/C++
-  * Python
-  * MATLAB
-  * Java
+  C/C++, Python, MATLAB, Java, Scala
 * Operating Systems:
-  * Linux
-  * Windows
-  * MacOSX
+  Linux, Windows, MacOSX
 * Deep Learning Frameworks:
-  * TensorFlow
-  * MXNet
-  * PyTorch
+  TensorFlow, MXNet, PyTorch
+* Distributed Systems:
+  Spark
 * Robotics:
-  * ROS
-  * Moveit
+  ROS, Moveit
 * Hardware:
-  * RF Circuit Design
-  * PCB Design
-  * Embedded Systems
+  RF Circuit Design, PCB Design, Embedded Systems
 
 Publications
 ======
