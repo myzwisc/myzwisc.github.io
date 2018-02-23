@@ -42,6 +42,13 @@ Skills
 * Hardware:
   RF Circuit Design, PCB Design, Embedded Systems
 
+Honors & Awards
+======
+* Huawei Scholarship
+  *Nov 2015 by Huawei Technologies Co., Ltd.*
+* National Scholarship of China
+  *Oct 2015 by Ministry of Education of the People’s Republic of China*
+
 Publications
 ======
   <ul>{% for post in site.publications %}
