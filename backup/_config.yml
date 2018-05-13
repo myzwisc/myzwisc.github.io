@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Hongyi Wang's Home Page"
+title                    : "Hongyi Wang"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
