@@ -44,6 +44,8 @@ Skills
 
 Honors & Awards
 ======
+* Student Travel Award, ICML 2018
+  * *May 2018, issued by Thirty-fifth International Conference on Machine Learning (ICML 2018)
 * Huawei Scholarship
   * *Nov 2015, issued by Huawei Technologies Co., Ltd.*
 * National Scholarship of China
