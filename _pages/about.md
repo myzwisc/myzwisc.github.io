@@ -14,4 +14,4 @@ I'm currently a second-year Ph.D. student at Computer Sciences Department of Uni
   
 Previously, I was a member of [Graphics Group](https://graphics.cs.wisc.edu/WP/) at UW-Madison, worked on robotics research with [Prof. Michael Gleicher](http://pages.cs.wisc.edu/~gleicher/).
 
-You can find a copy of my CV [here](https://github.com/hwang595/hwang595.github.io/tree/master/files/hwang_cv.pdf).
+You can find a copy of my CV [here](http://pages.cs.wisc.edu/~hongyiwang/cv/hwang_cv.pdf).
