@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Hongyi Wang's Home Page"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Hongyi Wang"
 description              : &description "personal description"
 url                      : https://hwang595.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
