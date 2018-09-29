@@ -22,7 +22,7 @@ Research experience
   * Advisor: Prof. Xiaojin Zhu
 
 * 05-08/2018: Resarch Intern
-  * Symantec Research Lab (Log Angeles)
+  * Symantec Research Lab (Los Angeles)
   * Supervisor: Dr. Chris Gates & Dr. Kevin Roundy
 
 * 05-07/2015: Short-Term Research Scholar
