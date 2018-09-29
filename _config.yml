@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Hongyi Wang's Home Page"
+title                    : "Yuzhe Ma's Home Page"
 title_separator          : "-"
-name                     : &name "Hongyi Wang"
+name                     : &name "Yuzhe Ma"
 description              : &description "personal description"
 url                      : https://hwang595.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -78,13 +78,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Hongyi Wang"
-  avatar           : "profile.jpg"
-  bio              : "Second Year PhD Student at CS of University of Wisconsin - Madison"
-  location         : "3533, 1415 Engineering Drive"
+  name             : "Yuzhe Ma"
+  avatar           : "Yuzhe.jpg"
+  bio              : "Third Year PhD Student at CS of University of Wisconsin - Madison"
+  # location         : "3533, 1415 Engineering Drive"
   employer         :
-  googlescholar    : "https://scholar.google.com/citations?user=zYdZORsAAAAJ&hl=en&citsig=AMstHGSDd6LPeGN0xKe4jqF6gPRY_1K2Pw"
-  email            : "hongyiwang@cs.wisc.edu"
+  # googlescholar    : "https://scholar.google.com/citations?user=zYdZORsAAAAJ&hl=en&citsig=AMstHGSDd6LPeGN0xKe4jqF6gPRY_1K2Pw"
+  # email            : "hongyiwang@cs.wisc.edu"
   uri              :
   bitbucket        :
   codepen          :
@@ -92,19 +92,19 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "hwang595"
+  # github           : "hwang595"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  # orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  # twitter          : "replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
