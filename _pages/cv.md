@@ -18,9 +18,8 @@ Education
 Research experience
 ======
 * 2016 - Present: Research Assistant
-  * ECE Department of UW - Madison
-  * Duties included: Research on distributed machine learning
-  * Supervisor: Prof. Dimitris Papailiopoulos
+  * CS Department of UW - Madison
+  * Advisor: Prof. Xiaojin Zhu
 
 * 05-08/2018: Resarch Intern
   * Symantec Research Lab (Log Angeles)
