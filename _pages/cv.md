@@ -11,54 +11,26 @@ redirect_from:
 
 Education
 ======
-* B.S., in Electrical Engineering, Hangzhou Dianzi University, 2016
-* M.S., in Computer Science, University of Wisconsin - Madison, 2018 (expected)
+* B.S., in Huazhong University of Science and Technology, 2016
+* M.S., in Computer Science, University of Wisconsin - Madison, 2018
 * Ph.D, in Computer Science, University of Wisconsin - Madison, 2022 (expected)
 
-Work experience
+Research experience
 ======
-* Fall 2017: Research Assistant
+* 2016 - Present: Research Assistant
   * ECE Department of UW - Madison
   * Duties included: Research on distributed machine learning
   * Supervisor: Prof. Dimitris Papailiopoulos
 
-* Spring & Summer 2017: Research Assistant
-  * CS Department of UW - Madison
-  * Duties included: Research on robotics
-  * Supervisor: Prof. Micheal Gleicher
-  
-Skills
-======
-* Programming Languages:
-  C/C++, Python, MATLAB, Java, Scala
-* Operating Systems:
-  Linux, Windows, MacOSX
-* Deep Learning Frameworks:
-  TensorFlow, MXNet, PyTorch
-* Distributed Systems:
-  Spark
-* Robotics:
-  ROS, Moveit
-* Hardware:
-  RF Circuit Design, PCB Design, Embedded Systems
+* 05-08/2018: Resarch Intern
+  * Symantec Research Lab (Log Angeles)
+  * Supervisor: Dr. Chris Gates & Dr. Kevin Roundy
 
-Honors & Awards
-======
-* Student Travel Award, ICML 2018
-  * *May 2018, issued by Thirty-fifth International Conference on Machine Learning (ICML 2018)*
-* Huawei Scholarship
-  * *Nov 2015, issued by Huawei Technologies Co., Ltd.*
-* National Scholarship of China
-  * *Oct 2015, issued by Ministry of Education of the People’s Republic of China*
+* 05-07/2015: Short-Term Research Scholar
+  * CS Department of Cornell University
+  * Advisor: Prof. Kun He & Prof. John Hopcroft
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>  
+* 2012-2016: Undergradute Research Assistant
+  * CS Department of Huazhong University of Science and Technology
+  * Advisor: Prof. Kun He
+

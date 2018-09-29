@@ -10,8 +10,4 @@ redirect_from:
 
 Bibliography
 ======
-I'm currently a second-year Ph.D. student at Computer Sciences Department of University of Wisconsin - Madison, advised by [Prof. Dimitris Papailiopoulos](http://papail.io/). My research interests locate in machine learning, distributed system, and large-scale optimization.  
-  
-Previously, I was a member of [Graphics Group](https://graphics.cs.wisc.edu/WP/) at UW-Madison, worked on robotics research with [Prof. Michael Gleicher](http://pages.cs.wisc.edu/~gleicher/).
-
-You can find a copy of my CV [here](http://pages.cs.wisc.edu/~hongyiwang/cv/hwang_cv.pdf).
+I'm currently a third-year Ph.D. student at Computer Sciences Department of University of Wisconsin - Madison, advised by [Prof. Xiaojin Zhu](http://pages.cs.wisc.edu/~jerryzhu/publications.html). My research interest is machine learning. 
