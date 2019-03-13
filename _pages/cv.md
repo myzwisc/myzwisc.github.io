@@ -33,3 +33,9 @@ Research experience
   * CS Department of Huazhong University of Science and Technology
   * Advisor: Prof. Kun He
 
+Academic Service
+======
+* Program Committee: ACML19, AAAI19
+* Reviewer: NeurIPS19, ICML19, AISTATS19
+* Student Volunteer: AISTATS18
+
