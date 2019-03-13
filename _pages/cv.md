@@ -35,7 +35,7 @@ Research experience
 
 Academic Service
 ======
-* Program Committee: ACML19, AAAI19
-* Reviewer: NeurIPS19, ICML19, AISTATS19
-* Student Volunteer: AISTATS18
+* Program Committee: ACML 2019, AAAI 2019
+* Reviewer: NeurIPS 2019, ICML 2019, AISTATS 2019
+* Student Volunteer: AISTATS 2018
 
