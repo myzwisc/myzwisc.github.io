@@ -21,16 +21,20 @@ Research experience
   * CS Department of UW - Madison
   * Advisor: Prof. Xiaojin Zhu
 
+* 05-08/2019: Applied Scientist Intern
+  * Amazon Prime Research
+  * Supervisor: Dale Struble & David Zumwalt
+
 * 05-08/2018: Resarch Intern
   * Symantec Research Lab (Los Angeles)
   * Supervisor: Dr. Chris Gates & Dr. Kevin Roundy
 
-* 05-07/2015: Short-Term Research Scholar
+* 05-07/2015: Research Scholar
   * CS Department of Cornell University
   * Advisor: Prof. Kun He & Prof. John Hopcroft
 
 * 2012-2016: Undergradute Research Assistant
-  * CS Department of Huazhong University of Science and Technology
+  * John Hopcroft Lab at Huazhong University
   * Advisor: Prof. Kun He
 
 Academic Service
