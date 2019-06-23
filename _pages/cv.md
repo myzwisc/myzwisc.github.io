@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D, in Computer Science, University of Wisconsin - Madison, 2022 (expected)
+* Ph.D, in Computer Science, University of Wisconsin - Madison, 2021 (expected)
 * M.S., in Computer Science, University of Wisconsin - Madison, 2018
 * B.S., in Huazhong University of Science and Technology, 2016
 
