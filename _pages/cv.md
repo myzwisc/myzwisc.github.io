@@ -40,6 +40,6 @@ Research experience
 Academic Service
 ======
 * Program Committee: AAAI20, ACML19, AAAI19
-* Reviewer: AISTATS20, IEEE Access, Machine Learning Journal, NeurIPS19, ICML19, AISTATS19
+* Reviewer: ICML20, AISTATS20, IEEE Access, Machine Learning Journal, NeurIPS19, ICML19, AISTATS19
 * Student Volunteer: AISTATS18
 
