@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Biography
+About Me
 ======
 Hi, I am a machine learning attacker!
 
