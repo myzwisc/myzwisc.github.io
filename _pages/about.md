@@ -18,8 +18,8 @@ My research interest focuses on adversarial machine learning, which is a topic t
 
 Very recently, I have been working on adversarial attacks of sequential decision making process. Check out a series of my publications along this topic below.
 
-[reinforcement learning (NeurIPS19)](https://arxiv.org/abs/1910.05821)
+[attack reinforcement learning (NeurIPS19)](https://arxiv.org/abs/1910.05821)
 
-[stochastic bandit (NeurIPS18)](https://arxiv.org/abs/1810.12188)
+[attack stochastic bandit (NeurIPS18)](https://arxiv.org/abs/1810.12188)
 
-[contextual bandit (GameSec18)](https://arxiv.org/abs/1808.05760)
+[attack contextual bandit (GameSec18)](https://arxiv.org/abs/1808.05760)
