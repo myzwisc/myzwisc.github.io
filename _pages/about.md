@@ -20,6 +20,6 @@ Very recently, I have been working on adversarial attacks of sequential decision
 
 [Attack reinforcement learning (NeurIPS19)](https://arxiv.org/abs/1910.05821)
 
-[Attack stochastic bandit (NeurIPS18)](https://arxiv.org/abs/1810.12188)
-
 [Attack contextual bandit (GameSec18)](https://arxiv.org/abs/1808.05760)
+
+[Attack stochastic bandit (NeurIPS18)](https://arxiv.org/abs/1810.12188)
