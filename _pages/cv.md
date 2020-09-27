@@ -37,8 +37,8 @@ Research experience
 
 Academic Service
 ======
-* Program Committee: ACML20, AAAI20, ACML19, AAAI19
-* Conference Reviewer: NeurIPS20, ICML20, AISTATS20, NeurIPS19, ICML19, AISTATS19
+* Program Committee: AAAI21, ACML20, AAAI20, ACML19, AAAI19
+* Conference Reviewer: AISTATS21, ICLR21, NeurIPS20, ICML20, AISTATS20, NeurIPS19, ICML19, AISTATS19
 * Journal Reviewer: TON, TPAMI, IEEE Access, Machine Learning
 * Student Volunteer: AISTATS18
 
