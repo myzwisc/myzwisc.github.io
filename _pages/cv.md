@@ -20,10 +20,13 @@ Research experience
 * 2016 - Present: Research Assistant
   * CS Department of UW - Madison
 
-* 05-08/2019: Applied Scientist Intern
+* 06-08/2020: Research Intern
+  * IBM Research
+  
+* 06-08/2019: Applied Scientist Intern
   * Amazon Prime Research
 
-* 05-08/2018: Resarch Intern
+* 06-08/2018: Resarch Intern
   * Symantec Research Lab (Los Angeles)
 
 * 05-07/2015: Research Scholar
