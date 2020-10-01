@@ -215,6 +215,7 @@ defaults:
       type: publications
     values:
       layout: single
+      googlescholar: true
       author_profile: true
       share: true
       comments: true
