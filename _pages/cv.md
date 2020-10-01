@@ -26,7 +26,7 @@ Work Experience
   * Amazon Prime Research
 
 * 06-08/2018: Resarch Intern
-  * Symantec Research Lab (Los Angeles)
+  * Symantec Research Lab (NortonLifeLock)
 
 * 05-07/2015: Research Scholar
   * CS Department of Cornell University
