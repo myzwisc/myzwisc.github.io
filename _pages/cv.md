@@ -14,7 +14,7 @@ Education
 * M.S., in Computer Science, University of Wisconsin - Madison, 2018
 * B.S., in Huazhong University of Science and Technology, 2016
 
-Research experience
+Work Experience
 ======
 * 2016 - Present: Research Assistant
   * CS Department of UW - Madison
