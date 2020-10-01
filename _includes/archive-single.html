@@ -25,10 +25,8 @@
           alt="">
       </div>
     {% endif %}
-
-    <h2 class="archive__item-title" itemprop="headline">
-        <p> post.title </p>
-    </h2>
+    
+    <p> post.title </p>
     
     {% if post.read_time %}
       <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
