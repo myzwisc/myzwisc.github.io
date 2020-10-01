@@ -16,7 +16,7 @@ I'm currently a fifth-year Ph.D. student at Computer Sciences Department of Univ
 
 My research interest focuses on adversarial machine learning, which is a topic that can be studied under the umbrella of different learning paradigms, including supervised learning, reinforcement learning, multi-armed bandit, online learning, active learning and so on. Regardless of the learning paradigm, the problem there is to study how an adversary can intelligently poison the training or test data such that the learned model and (or) the induced prediction is forced to satisfy certain attack goals. Besides adversarial machine learning, I am also interested in other research topics such as machine teaching, unsupervised learning (e.g., dimensionality reduction and clustering), and differentially-private machine learning.
 
-Very recently, I have been working on adversarial attacks of sequential decision making process. Check out a line of my publications on attacking [Online Reinforcement Learning (ICML20)</font>](https://arxiv.org/abs/2003.12613), [Batch Reinforcement Learning (NeurIPS19)</font>](https://arxiv.org/abs/1910.05821), [Contextual Bandit (GameSec18)</font>](https://arxiv.org/abs/1808.05760), and [Stochastic Bandit (NeurIPS18)</font>](https://arxiv.org/abs/1810.12188).
+Very recently, I have been working on adversarial attacks of sequential decision making process. Check out a line of my publications on attacking [Online Reinforcement Learning (ICML20)](https://arxiv.org/abs/2003.12613), [Batch Reinforcement Learning (NeurIPS19)](https://arxiv.org/abs/1910.05821), [Contextual Bandit (GameSec18)](https://arxiv.org/abs/1808.05760), and [Stochastic Bandit (NeurIPS18)](https://arxiv.org/abs/1810.12188).
 
 
 
