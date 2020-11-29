@@ -10,8 +10,6 @@ redirect_from:
 
 About Me
 ======
-Hi, I am a machine learning attacker!
-
 I'm currently a fifth-year Ph.D. student at Computer Sciences Department of University of Wisconsin-Madison, advised by [Prof. Xiaojin Zhu](http://pages.cs.wisc.edu/~jerryzhu/index.html). Before joining UW-Madison, I was an undergraduate student at Huazhong University of Science and Technology, advised by [Prof. Kun He](https://scholar.google.com/citations?user=YTQnGJsAAAAJ&hl=en).
 
 My research interest lies in machine learning, especially adversarial machine learning and sequential decision making such as multi-armed bandit and reinforcement learning. I am also interested in solving real-world problems related to recommendation systems, search ranking, deep learning, unsupervised learning (e.g., dimensionality reduction and clustering), differential privacy, trust-worthy AI, machine teaching, and optimization.
