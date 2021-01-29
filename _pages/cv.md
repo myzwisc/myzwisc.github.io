@@ -23,7 +23,7 @@ Work Experience
   * IBM Research
   
 * 06-08/2019: Applied Scientist Intern
-  * Amazon Prime Research
+  * Amazon
 
 * 06-08/2018: Resarch Intern
   * Symantec Research Lab (NortonLifeLock)
