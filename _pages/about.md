@@ -21,3 +21,6 @@ Very recently, I have been working on adversarial attacks of sequential decision
 A copy of my CV can be found [here](https://myzwisc.github.io/Yuzhe Ma.pdf).
 
 
+I have recently graduated. Please check out my thesis [adversarial attacks in general sequential decision making process](https://myzwisc.github.io/thesis_yuzhe.pdf)
+
+
