@@ -14,7 +14,7 @@ I'm currently a fifth-year Ph.D. student at Computer Sciences Department of Univ
 
 My research interest lies in machine learning, especially adversarial machine learning and sequential decision making such as multi-armed bandit and reinforcement learning. I am also interested in solving real-world problems related to recommendation systems, search ranking, deep learning, unsupervised learning (e.g., dimensionality reduction and clustering), differential privacy, trust-worthy AI, machine teaching, and optimization.
 
-Very recently, I have been working on adversarial attacks of sequential decision making process. Check out a line of my publications on attacking [Sequential Control System (AAAI21)](https://arxiv.org/abs/2012.08704), [Online Reinforcement Learning (ICML20)](https://arxiv.org/abs/2003.12613), [Batch Reinforcement Learning (NeurIPS19)](https://arxiv.org/abs/1910.05821), [Contextual Bandit (GameSec18)](https://arxiv.org/abs/1808.05760), and [Stochastic Bandit (NeurIPS18)](https://arxiv.org/abs/1810.12188).
+Very recently, I have been working on adversarial attacks of sequential decision making process. Check out a line of my publications on attacking [No-regret Game Players](https://arxiv.org/abs/2110.11763), [Sequential Control System (AAAI21)](https://arxiv.org/abs/2012.08704), [Online Reinforcement Learning (ICML20)](https://arxiv.org/abs/2003.12613), [Batch Reinforcement Learning (NeurIPS19)](https://arxiv.org/abs/1910.05821), [Contextual Bandit (GameSec18)](https://arxiv.org/abs/1808.05760), and [Stochastic Bandit (NeurIPS18)](https://arxiv.org/abs/1810.12188).
 
 
 
