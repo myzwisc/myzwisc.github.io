@@ -16,8 +16,8 @@ My research interest lies in machine learning, especially adversarial machine le
 
 Very recently, I have been working on adversarial attacks of sequential decision making process. Check out a line of my publications on attacking [No-regret Game Players](https://arxiv.org/abs/2110.11763), [Sequential Control System (AAAI21)](https://arxiv.org/abs/2012.08704), [Online Reinforcement Learning (ICML20)](https://arxiv.org/abs/2003.12613), [Batch Reinforcement Learning (NeurIPS19)](https://arxiv.org/abs/1910.05821), [Contextual Bandit (GameSec18)](https://arxiv.org/abs/1808.05760), and [Stochastic Bandit (NeurIPS18)](https://arxiv.org/abs/1810.12188).
 
-
-
 A copy of my CV can be found [here](https://myzwisc.github.io/Yuzhe Ma.pdf).
+
+I've graduated recently. You can find my thesis [here](https://myzwisc.github.io/dissertation.pdf).
 
 
