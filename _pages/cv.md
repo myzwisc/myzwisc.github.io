@@ -10,13 +10,16 @@ redirect_from:
 
 Education
 ======
-* Ph.D, in Computer Science, University of Wisconsin - Madison, 2021 (expected)
+* Ph.D, in Computer Science, University of Wisconsin - Madison, 2021
 * M.S., in Computer Science, University of Wisconsin - Madison, 2018
 * B.S., in Huazhong University of Science and Technology, 2016
 
 Work Experience
 ======
-* 2016 - Present: Research Assistant
+* 2021 - Present: Senior Data & Applied Scientist
+  * Microsoft Azure AI
+
+* 2016 - 2021: Research Assistant
   * CS Department of UW - Madison
 
 * 06-08/2020: Research Intern
