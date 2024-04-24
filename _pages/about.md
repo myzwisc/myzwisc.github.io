@@ -22,7 +22,7 @@ Selected Publications
 ======
 
 Adversarial Attacks on Adversarial Bandits (ICLR23)\\
-Yuzhe Ma, Zhijin Zhou.
+**Yuzhe Ma**, Zhijin Zhou.
 
 Game Redesign in No-regret Game Players (IJCAI22)\\
 Yuzhe Ma, Young Wu, Xiaojin Zhu
