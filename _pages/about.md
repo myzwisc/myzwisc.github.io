@@ -21,10 +21,10 @@ A copy of my CV can be found [here](https://myzwisc.github.io/Yuzhe Ma.pdf). You
 Selected Publications
 ======
 
-Adversarial Attacks on Adversarial Bandits (ICLR23)
+Adversarial Attacks on Adversarial Bandits (ICLR23)\\
 Yuzhe Ma, Zhijin Zhou.
 
-Game Redesign in No-regret Game Players (IJCAI22)
+Game Redesign in No-regret Game Players (IJCAI22)\\
 Yuzhe Ma, Young Wu, Xiaojin Zhu
 
 Sequential Attacks on Kalman Filter-based Forward Collision Warning Systems (AAAI21)
