@@ -21,8 +21,6 @@ A copy of my CV can be found [here](https://myzwisc.github.io/Yuzhe Ma.pdf). You
 Selected Publications
 ======
 
-Adversarial Attacks
-
 Adversarial Attacks on Adversarial Bandits (ICLR23)
 Yuzhe Ma, Zhijin Zhou.
 
