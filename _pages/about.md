@@ -21,32 +21,32 @@ A copy of my CV can be found [here](https://myzwisc.github.io/Yuzhe Ma.pdf). You
 Selected Publications
 ======
 
-Adversarial Attacks on Adversarial Bandits (ICLR23)\\
+Adversarial Attacks on Adversarial Bandits (**ICLR23**)\\
 **Yuzhe Ma**, Zhijin Zhou.
 
-Game Redesign in No-regret Game Players (IJCAI22)\\
+Game Redesign in No-regret Game Players (**IJCAI22**)\\
 **Yuzhe Ma**, Young Wu, Xiaojin Zhu
 
-Sequential Attacks on Kalman Filter-based Forward Collision Warning Systems (AAAI21)\\
+Sequential Attacks on Kalman Filter-based Forward Collision Warning Systems (**AAAI21**)\\
 **Yuzhe Ma**, Jon Sharp, Ruizhe Wang, Earlence Fernandes, Xiaojin Zhu
 
 
-Adaptive Reward-Poisoning Attacks against Reinforcement Learning (ICML20)\\
+Adaptive Reward-Poisoning Attacks against Reinforcement Learning (**ICML20**)\\
 Xuezhou Zhang, **Yuzhe Ma**, Adish Singla, Xiaojin Zhu
 
-Policy Poisoning in Batch Reinforcement Learning and Control (NeurIPS19)\\
+Policy Poisoning in Batch Reinforcement Learning and Control (**NeurIPS19**)\\
 **Yuzhe Ma**, Xuezhou Zhang, Wen Sun, Xiaojin Zhu
 
-Data Poisoning against Differentially-Private Learners: Attacks and Defenses (IJCAI19)\\
+Data Poisoning against Differentially-Private Learners: Attacks and Defenses (**IJCAI19**)\\
 **Yuzhe Ma**, Xiaojin Zhu, Justin Hsu
 
-Adversarial Attacks on Stochastic Bandit (NeurIPS18)\\
+Adversarial Attacks on Stochastic Bandit (**NeurIPS18**)\\
 Kwang-Sung Jun, Lihong Li, **Yuzhe Ma**, Xiaojin Zhu (alphabetical order)
 
-Teacher Improves Learning by Selecting a Training Subset (AISTATS18)\\
+Teacher Improves Learning by Selecting a Training Subset (**AISTATS18**)\\
 **Yuzhe Ma**, Robert Nowak, Philippe Rigollet, Xuezhou Zhang, Xiaojin Zhu
 
-Neighbourhood-Preserving Dimension Reduction via Localised Multidimensional Scaling (TCS17)\\
+Neighbourhood-Preserving Dimension Reduction via Localised Multidimensional Scaling (**TCS17**)\\
 **Yuzhe Ma**, Kun He, John Hopcroft, Pan Shi
 
 
