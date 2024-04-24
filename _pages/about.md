@@ -43,6 +43,9 @@ Data Poisoning against Differentially-Private Learners: Attacks and Defenses (**
 Adversarial Attacks on Stochastic Bandit (**NeurIPS18**)\\
 Kwang-Sung Jun, Lihong Li, **Yuzhe Ma**, Xiaojin Zhu (alphabetical order)
 
+Data Poisoning Attacks in Contextual Bandits (**GameSec18)
+**Yuzhe Ma**, Kwang-Sung Jun, Lihong Li, Xiaojin Zhu
+
 Teacher Improves Learning by Selecting a Training Subset (**AISTATS18**)\\
 **Yuzhe Ma**, Robert Nowak, Philippe Rigollet, Xuezhou Zhang, Xiaojin Zhu
 
