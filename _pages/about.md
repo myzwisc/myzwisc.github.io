@@ -14,7 +14,7 @@ I'm currently a senior data & applied scientist at Microsoft Azure AI, working o
 
 I got my Ph.D. at Computer Sciences Department of University of Wisconsin-Madison in 2021, fortunately advised by [Prof. Xiaojin Zhu](http://pages.cs.wisc.edu/~jerryzhu/index.html). My PhD research focused on machine learning, especially adversarial machine learning and sequential decision making such as multi-armed bandit and reinforcement learning.
 
-From 2012 to 2016, I was an undergraduate student at Huazhong University of Science and Technology, advised by [Prof. Kun He](https://scholar.google.com/citations?user=YTQnGJsAAAAJ&hl=en), where I had some fun with unsupervised machine learning, e.g., [dimensionality reduction](https://www.sciencedirect.com/science/article/pii/S0304397517306837) and clustering in social networks.
+From 2012 to 2016, I was an undergraduate student at Huazhong University of Science and Technology, advised by [Prof. Kun He](https://scholar.google.com/citations?user=YTQnGJsAAAAJ&hl=en), where I had some fun with unsupervised machine learning such as dimensionality reduction and clustering in social networks.
 
 A copy of my CV can be found [here](https://myzwisc.github.io/Yuzhe Ma.pdf). You can find my thesis [here](https://myzwisc.github.io/dissertation.pdf).
 
