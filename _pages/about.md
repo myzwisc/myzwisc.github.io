@@ -24,7 +24,7 @@ Selected Publications
 Adversarial Attacks on Adversarial Bandits (**ICLR23**)\\
 **Yuzhe Ma**, Zhijin Zhou.
 
-Game Redesign in No-regret Game Players (**IJCAI22**)\\
+Game Redesign in No-regret Game Playing (**IJCAI22**)\\
 **Yuzhe Ma**, Young Wu, Xiaojin Zhu
 
 Sequential Attacks on Kalman Filter-based Forward Collision Warning Systems (**AAAI21**)\\
