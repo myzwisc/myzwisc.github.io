@@ -41,7 +41,7 @@ Data Poisoning against Differentially-Private Learners: Attacks and Defenses (**
 **Yuzhe Ma**, Xiaojin Zhu, Justin Hsu
 
 Adversarial Attacks on Stochastic Bandit (**NeurIPS18**)\\
-Kwang-Sung Jun, Lihong Li, **Yuzhe Ma**, Xiaojin Zhu <span style="color:red">(α-β)</span>
+Kwang-Sung Jun, Lihong Li, **Yuzhe Ma**, Xiaojin Zhu <span style="color:red">(**α-β**)</span>
 
 Data Poisoning Attacks in Contextual Bandits (**GameSec18**)\\
 **Yuzhe Ma**, Kwang-Sung Jun, Lihong Li, Xiaojin Zhu
