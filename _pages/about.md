@@ -20,6 +20,8 @@ A copy of my CV can be found [here](https://myzwisc.github.io/Yuzhe Ma.pdf). You
 
 Selected Publications
 ======
+BadRL: Sparse Targeted Backdoor Attack Against Reinforcement Learning (**AAAI24**)\\
+Jing Cui, Yufei Han, **Yuzhe Ma**, Jianbin Jiao, Junge Zhang
 
 Adversarial Attacks on Adversarial Bandits (**ICLR23**)\\
 **Yuzhe Ma**, Zhijin Zhou. <span style="color:red">(**Spotlight**)</span>
